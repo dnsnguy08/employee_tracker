@@ -26,6 +26,7 @@ figlet('Employee Manager', (err, result) => {
     console.log(err || result);
 });
 
+// Connect to database and assign data to the roles, departments, managers, employees variables
 connection.connect(function (err) {
     if (err) throw err;
     start();
