@@ -60,7 +60,7 @@ start = () => {
                 deleteOptions();
             }
             else if (answer.choices === "EXIT") {
-                figlet('Thanks!', (err, result) => {
+                figlet('Thanks, Bye!', (err, result) => {
                     console.log(err || result);
                 });
 
@@ -129,7 +129,7 @@ addOptions = () => {
             addEmployee();
         }
         else if (answer.add === "EXIT") {
-            figlet('Thanks!', (err, result) => {
+            figlet('Thanks, Bye!!', (err, result) => {
                 console.log(err || result);
             });
 
@@ -287,7 +287,7 @@ viewOptions= () => {
             viewEmployees();
         }
         else if (answer.viewChoice === "EXIT") {
-            figlet('Thanks!', (err, result) => {
+            figlet('Thanks, Bye!!', (err, result) => {
                 console.log(err || result);
             });
 
@@ -353,7 +353,7 @@ updateOptions = () => {
             updateEmployeeManager();
         }
         else if (answer.update === "EXIT") {
-            figlet('Thanks!', (err, result) => {
+            figlet('Thanks, Bye!', (err, result) => {
                 console.log(err || result);
             });
 
@@ -506,7 +506,7 @@ deleteOptions = () => {
         else if (answer.delete === "Delete employee") {
             deleteEmployee();
         } else if (answer.delete === "EXIT") {
-            figlet('Thanks!', (err, result) => {
+            figlet('Thanks, Bye!', (err, result) => {
                 console.log(err || result);
             });
 
