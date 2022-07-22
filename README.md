@@ -53,7 +53,7 @@
   This application is a command-line CMS (content management systems) interface that will allow users to easily view and interact with information stored in a database. 
   
   ## Repository
-  - [Video Walkthrough]()
+  - [Video Walkthrough](https://drive.google.com/file/d/1Jexbb787WGiX6rUnHKf58kBJwkRUZaRF/view?usp=sharing)
   - [Project Repo](https://github.com/dnsnguy08/employee_tracker)
   ## Questions
   For any questions, please reach out to:
