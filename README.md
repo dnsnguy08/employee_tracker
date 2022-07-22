@@ -54,7 +54,7 @@
   
   ## Repository
   - [Video Walkthrough]()
-  - [Project Repo](https://github.com/dnsnguy08/note_taker)
+  - [Project Repo](https://github.com/dnsnguy08/employee_tracker)
   ## Questions
   For any questions, please reach out to:
   - Dennis Nguyen
